@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/greenbckgrnd">
+
+
+    <ImageButton
+        android:id="@+id/wthr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginTop="22dp"
+        android:background="@null"
+        app:srcCompat="@drawable/unknown" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/wthr"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/wthr"
+        android:layout_marginLeft="29dp"
+        android:layout_marginStart="29dp"
+        android:layout_toLeftOf="@+id/wthr"
+        android:layout_toStartOf="@+id/wthr"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        tools:text="       " />
+
+    <TextView
+        android:id="@+id/describe"
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="46dp"
+        android:autoLink="web"
+        android:textSize="18dp"
+        android:maxLines = "500"
+        android:scrollbars = "vertical"
+        android:gravity="top"
+        android:textColor="@android:color/white" />
+
+    <Spinner
+        android:id="@+id/actspin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/describe"
+        android:layout_alignLeft="@+id/describe"
+        android:layout_alignRight="@+id/describe"
+        android:layout_alignStart="@+id/describe"
+        android:layout_below="@+id/wthr"
+        android:layout_marginTop="75dp" />
+
+    <TextView
+        android:id="@+id/actTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="105dp"
+        android:text=""
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/trailLn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/describe"
+        android:layout_alignLeft="@+id/describe"
+        android:layout_alignStart="@+id/describe"
+        android:layout_marginBottom="35dp"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+    <ImageButton
+        android:id="@+id/gmbttn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/wthr"
+        android:layout_alignRight="@+id/wthr"
+        android:layout_below="@+id/wthr"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/title"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:onClick="onClickOpenAddressButton"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/gmi" />
+
+    <TextView
+        android:id="@+id/chAct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/actspin"
+        android:layout_alignStart="@+id/actspin"
+        android:layout_alignTop="@+id/actTV"
+        android:text="Choose an activity: "
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+
+</RelativeLayout>

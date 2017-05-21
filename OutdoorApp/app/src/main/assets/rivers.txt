@@ -1,0 +1,76 @@
+North Anna, (Partlow), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=parv2&output=tabular&time_zone=est, parv2_hg
+South Anna, (Ashland), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=ahlv2&output=tabular&time_zone=est, ahlv2_hg
+North Anna, (Doswell), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=dosv2&output=tabular&time_zone=est, dosv2_hg
+Appomattox ,(Farmville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=frmv2&output=tabular&time_zone=est, frmv2_hg
+Appomattox ,(Matoaca), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=mtcv2&output=tabular&time_zone=est, mtcv2_hg
+Appomattox ,(Mattoax), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=mtxv2&output=tabular&time_zone=est, mtxv2_hg
+Bannister ,(Halifax), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=halv2&output=tabular&time_zone=est, halv2_hg
+Blackwater ,(Above Franklin), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=fknv2&output=tabular&time_zone=est, fknv2_hg
+Blackwater ,(ZUNI), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=zunv2&output=tabular&time_zone=est, zunv2_hg
+Blackwater ,(Dendron), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=dndv2&output=tabular&time_zone=est, dndv2_hg
+Blackwater ,(Franklin), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=fklv2&output=tabular&time_zone=est, fklv2_hg
+Chickahominey ,(Providence Forge), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=ckhv2&output=tabular&time_zone=est, ckhv2_hg
+Clinch ,(Speers Ferry), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=sfyv2&output=tabular&time_zone=est, sfyv2_hg
+Clinch ,(Cleveland), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=clvv2&output=tabular&time_zone=est, clvv2_hg
+Clinch ,(Tazewell), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=tazt1&output=tabular&time_zone=est, tazt1_hg
+Clinch ,(Richlands), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=rlrv2&output=tabular&time_zone=est, rlrv2_hg
+Clinch ,(Above Melton Hill Dam), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=mhdt1&output=tabular&time_zone=est, mhdt1_hg
+Clinch ,(Fort Blackmore), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=ftbv2&output=tabular&time_zone=est, ftbv2_hg
+Cowpasture , (Clifton Forge), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=cowv2&output=tabular&time_zone=est, cowv2_hg
+Craig , (Parr), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=crgv2&output=tabular&time_zone=est, crgv2_hg
+Dan, (South Boston), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=sbnv2&output=tabular&time_zone=est, sbnv2_hg
+Dan, (Danville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=dvlv2&output=tabular&time_zone=est, dvlv2_hg
+Jackson, (Covington), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=cvgv2&output=tabular&time_zone=est, cvgv2_hg
+James ,(Richmond), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=rmdv2&output=tabular&time_zone=est, rmdv2_hg
+James ,(Buchanan), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=bnnv2&output=tabular&time_zone=est, bnnv2_hg
+James ,(Lick Run), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=lirv2&output=tabular&time_zone=est, lirv2_hg
+James ,(Bent Creek), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=becv2&output=tabular&time_zone=est, becv2_hg
+James ,(Scottsville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=svev2&output=tabular&time_zone=est, svev2_hg
+James ,(Holcomb Rock), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=hrkv2&output=tabular&time_zone=est, hrkv2_hg
+Holston ,(Rogersville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=jskt1&output=tabular&time_zone=est, jskt1_hg
+Holston ,North Fork, (Saltville), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=salv2&output=tabular&time_zone=est, salv2_hg
+Holston ,South Fork, (Kingsport), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=shkt1&output=tabular&time_zone=est, shkt1_hg
+Holston ,North Fork, (Gate City), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=gatv2&output=tabular&time_zone=est, gatv2_hg
+Holston ,South Fork, (Above South Holston Dam), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=shdt1&output=tabular&time_zone=est, shdt1_hg
+Holston ,Middle Fork, (Meadowview), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=mfhv2&output=tabular&time_zone=est, mfhv2_hg
+Mattaponi , (Bowling Green), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=bwlv2&output=tabular&time_zone=est, bwlv2_hg
+Mattaponi, (Beulaville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=blhv2&output=tabular&time_zone=est, blhv2_hg
+Maury , (Buena Vista), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=bvsv2&output=tabular&time_zone=est, bvsv2_hg
+Maury , (Rockbridge Baths), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=robv2&output=tabular&time_zone=est, robv2_hg
+Meherrin ,(Emporia), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=epov2&output=tabular&time_zone=est, epov2_hg
+Meherrin ,(Lawrenceville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=lawv2&output=tabular&time_zone=est, lawv2_hg
+Meherrin ,(Bryants Corner), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=brtv2&output=tabular&time_zone=est, brtv2_hg
+Meherren ,(Lunenburg), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=lnbv2&output=tabular&time_zone=est, lnbv2_hg
+Meherrin ,(South Hill), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=sohv2&output=tabular&time_zone=est, sohv2_hg
+New River ,(Radford), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=rdfv2&output=tabular&time_zone=est, rdfv2_hg
+Nottoway ,(Sebrell), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=sebv2&output=tabular&time_zone=est, sebv2_hg
+Nottoway ,(Stony Creek), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=styv2&output=tabular&time_zone=est, styv2_hg
+Nottoway ,(Mckenny), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=mknv2&output=tabular&time_zone=est, mknv2_hg
+Nottoway ,(Rawlings), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=rawv2&output=tabular&time_zone=est, rawv2_hg
+Nottoway ,(Riverdale), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=rvdv2&output=tabular&time_zone=est, rvdv2_hg
+Occoquan ,(Occoquan Upper Dam), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=oudv2&output=tabular&time_zone=est, oudv2_hg
+Pamunkey, (Hanover), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=pamv2&output=tabular&time_zone=est, pamv2_hg
+Potomac ,(Paw Paw), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=paww2&output=tabular&time_zone=est, paww2_hg
+Potomac ,(Hancock), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=hnkm2&output=tabular&time_zone=est, hnkm2_hg
+Powell ,South Fork, (Big Cherry Dam), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=bcdv2&output=tabular&time_zone=est, bcdv2_hg
+Powell ,(Big Stone Gap), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=bsgv2&output=tabular&time_zone=est, bsgv2_hg
+Powell ,(Jonesville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=jnsv2&output=tabular&time_zone=est, jnsv2_hg
+Powell ,(Arthur), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=artt1&output=tabular&time_zone=est, artt1_hg
+Rapidan, (Culpepper), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=clpv2&output=tabular&time_zone=est, clpv2_hg
+Rapidan, (Ruckersville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=rucv2&output=tabular&time_zone=est, rucv2_hg
+Rappahannock ,(Fredricksburg), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=fedv2&output=tabular&time_zone=est, fedv2_hg
+Rivanna ,(Palmyra), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=pyav2&output=tabular&time_zone=est, pyav2_hg
+Rivanna ,North Fork, (Earlysville), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=nfrv2&output=tabular&time_zone=est, nfrv2_hg
+Roanoke ,(Walnut Avenue), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=ronv2&output=tabular&time_zone=est, ronv2_hg
+Roanoke ,(Williamston), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=wlln7&output=tabular&time_zone=est, wlln7_hg
+Roanoke ,(Brookneal), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=brov2&output=tabular&time_zone=est, brov2_hg
+Roanoke ,(Glenvar), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=gnvv2&output=tabular&time_zone=est, gnvv2_hg
+Roanoke ,(Scotland Neck), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=scon7&output=tabular&time_zone=est, scon7_hg
+Shenandoah ,(Millville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=milw2&output=tabular&time_zone=est, milw2_hg
+Shenandoah ,South Fork, (Luray), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=sfsv2&output=tabular&time_zone=est, sfsv2_hg
+Shenandoah ,North Fork, (Strasburg), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=stgv2&output=tabular&time_zone=est, stgv2_hg
+Shenandoah ,South Fork, (Lynnwood),http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=lywv2&output=tabular&time_zone=est, lywv2_hg
+Shenandoah ,North Fork, (Mount Jackson), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=mojv2&output=tabular&time_zone=est, mojv2_hg
+Smith ,(Martinsville), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=smmv2&output=tabular&time_zone=est, smmv2_hg
+Smith ,(Bassett), http://www.water.weather.gov/ahps2/hydrograph_to_xml.php?gage=basv2&output=tabular&time_zone=est, basv2_hg
+Smith ,(Eden), http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=edsn7&output=tabular&time_zone=est, edsn7_hg
